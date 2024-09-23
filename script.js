@@ -84,8 +84,6 @@ console.log(objectDescriprios2)
 console.log(objectDescriprios2go)
 
 
-
-
 /* ESERCIZIO 3
  Scriti il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
@@ -120,6 +118,7 @@ console.log(space12)
 console.log(esercizio4)
  console.log(x)
 
+
 /* ESERCIZIO 5
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
@@ -133,11 +132,26 @@ console.log(space13)
 console.log(esercizio5)
 console.log(nome)
 
-/* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
+
+let space14 = null
+let esercizio6 = "Esercizio6"
+let metodo01 = "Eseguo la  sottrazione tra la variabile 'X' ed il numero 4 in una variabile unica"
+let somma01 = x -4
+let metodo02 = "Eseguo la  sottrazione tra la variabile 'X' ed il numero 4 aggiungento in nuovo numero ad una variabile e creando un ulteriore variabile per fare la somma"
+let numero4 = 4
+let somma02 = x - numero4
+
+console.log(space14)
+console.log(esercizio6)
+console.log(metodo01)
+console.log(somma01)
+console.log(metodo2)
+console.log(somma02)
+
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
