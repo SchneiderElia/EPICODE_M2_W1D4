@@ -94,7 +94,7 @@ let space10 = null
 let esercizio3 = "Esercizio3"
 let metodo1 = "Metodo1 (somma dei due numeri direttamente nella variabile)"
 let somma1 = 12 + 20
-let metodo2 = "Metodo2 (creare due variabili distinte e sommarle)"
+let metodo2 = "Metodo2 (creare due variabili distinte e sommarle in una variabile che li racchiude)"
 let numero12 = 12
 let numero20 = 20
 let somma2 = numero12 + numero20
@@ -106,9 +106,6 @@ console.log(somma1)
 console.log(metodo2)
 console.log(somma2)
 console.log (numero12 + numero20)
-
-
-
 
 
 /* ESERCIZIO 4
@@ -126,6 +123,15 @@ console.log(esercizio4)
 /* ESERCIZIO 5
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
+
+let space13 = null
+let esercizio5 = "Esercizio5"
+let nome = "Elia"
+
+
+console.log(space13)
+console.log(esercizio5)
+console.log(nome)
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
