@@ -68,19 +68,46 @@ console.log(space8)
 console.log(boolean)
 console.log(booleanDescriptions)
 
-/* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 2
  Descrivi cos'è un oggetto in JavaScript, con parole tue.
 */
+let space9 = null
+let esercizio2 = "Esercisio2"
+let objectDescriprios2 = "Descrizione di un oggeto javascript"
+let objectDescriprios2go = "un oggeto in javasript e una rappresentazione di dati composti da un nome che gli identifica e un valore, questi vengono assegniati da noi, questi dati vengono messi dentro un scatola principale con nome univoco"
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+
+console.log(space9)
+console.log(esercizio2)
+console.log(objectDescriprios2)
+console.log(objectDescriprios2go)
+
+
+
 
 /* ESERCIZIO 3
  Scriti il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+let space10 = null
+let esercizio3 = "Esercizio3"
+let somma1 = 12 + 20
+let space11 = null
+let numero12 = 12
+let numero20 = 20
+let somma2 = numero12 + numero20
+
+console.log(space10)
+console.log(esercizio3)
+console.log(somma1)
+console.log(space11)
+console.log(somma2)
+console.log (numero12 + numero20)
+
+
+
+
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
