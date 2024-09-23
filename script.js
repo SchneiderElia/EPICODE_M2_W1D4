@@ -11,6 +11,63 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
+let esercizio1 = "Esercizio1"
+
+let number = "NUMERI INTERI "
+let numberDescriptions = "la variabiule number comprende tutti i numeri interi es: 1 ,3 , 5 ,45 ,78... "
+let space = null
+let flot = "NUMERI FLOT"
+let flotDescriptions = "sono tutti quei numeri che sono composti dalla virgola es: 2.4 - 4.5 - 56.3... "
+let space1 = null
+let stringa = "STRINGA"
+let stringDescrptions = "una stringa e una porzine di testo/ caratteri per far riconscere a javascript che e una stringa la dobbiamo racchiudere tra doppi apici o singoli "
+let space3 = null
+let object = "OBJECT"
+let objectDescriprios = "un oggetto e un insieme di dati che possono variare a seconda di ciò che dobbiamo rappresentare, ad esempio i dati di un apersona oppure una lista della spesa, ogni punto della nostra lista deve avere un nome specifico seguito dal suo dato ES: nome:Elia"
+let space4 = null
+let array = "ARRAY"
+let arrayDescriptios = "un array e simile ad un oggetto ma in questo caso la nostra lista viene numerata e parte dal numero zero, e non ha bisogno di avere denominazioni aggiuntive ma si scrive direttamente il dato coivolto, potremmo definirla una collezione di dati"
+let space5 = null   
+let costante = "COSTANTE"
+let costanteDescriprions= "la costante e un dato che rimane fisso e questo non può variare" 
+let space6 = null
+let vuoto = "NULL"
+let vuotoDescriptions = "impostare il valore null alla nostravariabile e come prendere una scatola scriverci sopra un nome per identificarla e tenerla vuota di proposito"
+let space7 = null
+let undefine = "UNDEFINE"
+let undefineDescriptions = "la scritta indefinito 'Undefine' ci appare quando creiamo la variabile, cioè la nostra scatola e al suo interno non ci iseriamo nulla"
+let space8 = null
+let boolean = "BOOLEAN-VALUE"
+let booleanDescriptions = "i valori booleani sono di due tipi 1-VERO(true) 2-FALSO(false) e servono a dire se un operazione e vera o falsa in base a quello che gli chiediamo"
+
+console.log(esercizio1)
+console.log(number)
+console.log(numberDescriptions)
+console.log(space)
+console.log(flot)
+console.log(flotDescriptions)
+console.log(space1)
+console.log(stringa)
+console.log(stringDescrptions)
+console.log(space3)
+console.log(object)
+console.log(objectDescriprios)
+console.log(space4)
+console.log(array)
+console.log(arrayDescriptios)
+console.log(space5)
+console.log(costante)
+console.log(costanteDescriprions)
+console.log(space6)
+console.log(vuoto)
+console.log(vuotoDescriptions)
+console.log(space7)
+console.log(undefine)
+console.log(undefineDescriptions)
+console.log(space8)
+console.log(boolean)
+console.log(booleanDescriptions)
+
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 2
