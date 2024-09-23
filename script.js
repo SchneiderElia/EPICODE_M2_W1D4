@@ -153,8 +153,6 @@ console.log(metodo2)
 console.log(somma02)
 
 
-/* SCRIVI QUI LA TUA RISPOSTA */
-
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
  Verifica che name1 sia diversa da name2 (suggerimento: è la stessa cosa di verificare che la loro uguaglianza sia falsa).
@@ -162,4 +160,30 @@ console.log(somma02)
  NON HAI BISOGNO DI UN BLOCCO IF/ELSE. E' sufficiente utilizzare console.log().
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+let space15 = null
+let esercizio7 = "Esercizio7"
+let name1 = "jhon"
+let name2 = "Jhon"
+let verifica1 = "controllo che jhon sia diverso da Jhon"
+let notsame = name1 == name2
+let cambio = "cambio Jhon in jhon"
+let name2low = name2.toLowerCase()
+let verifica2 = "controllo che i due nomi siano uguali"
+let samename = name1 == name2low
+let verifica3 = "controllo che i due nomi siano uguali solo dal console.log"
+
+
+
+console.log(space15)
+console.log(esercizio7)
+console.log(name1)
+console.log(name2)
+console.log(verifica1)
+console.log(notsame)
+console.log(name1 == name2)
+console.log(cambio)
+console.log(name2low)
+console.log(verifica2)
+console.log(samename)
+console.log(verifica3)
+console.log(name1 == (name2.toLowerCase()))
