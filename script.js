@@ -92,16 +92,18 @@ console.log(objectDescriprios2go)
 
 let space10 = null
 let esercizio3 = "Esercizio3"
+let metodo1 = "Metodo1 (somma dei due numeri direttamente nella variabile)"
 let somma1 = 12 + 20
-let space11 = null
+let metodo2 = "Metodo2 (creare due variabili distinte e sommarle)"
 let numero12 = 12
 let numero20 = 20
 let somma2 = numero12 + numero20
 
 console.log(space10)
 console.log(esercizio3)
+console.log(metodo1)
 console.log(somma1)
-console.log(space11)
+console.log(metodo2)
 console.log(somma2)
 console.log (numero12 + numero20)
 
@@ -113,7 +115,13 @@ console.log (numero12 + numero20)
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+let space12 = null
+let esercizio4 = "Esercizio4"
+let x = 12
+
+console.log(space12)
+console.log(esercizio4)
+ console.log(x)
 
 /* ESERCIZIO 5
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
